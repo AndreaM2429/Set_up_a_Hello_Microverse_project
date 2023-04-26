@@ -66,14 +66,21 @@ After you're finished please remove all the comments and instructions!
 <details>
   <summary>HTML</summary>
   <ul>
-    <li>This project use basic HTML tags.</li>
+    <li>This project use basic <a href="https://github.com/microverseinc/curriculum-html-css/blob/main/html5.md">HTML</a> tags.</li>
   </ul>
 </details>
 
 <details>
   <summary>CSS</summary>
   <ul>
-    <li>The CSS was used to provide the design in the index document</li>
+    <li>The <a href="https://github.com/microverseinc/curriculum-html-css/blob/main/html5.md">CSS</a> is used to provide the design in the index document</li>
+  </ul>
+</details>
+
+<details>
+  <summary>Linters</summary>
+  <ul>
+    <li>The <a href="https://github.com/microverseinc/linters-config">Linters</a> are tools that help us to check and solve the errors in the code</li>
   </ul>
 </details>
 
@@ -107,7 +114,8 @@ In order to run this project you need:
 ### Setup
 
 Clone this repository to your desired folder:
-- **Clone this repo on your local device you need to open Git Bash and paste the link with the command $ git clone https://github.com/AndreaM2429/Set_up_a_Hello_Microverse_project**
+- **Clone this repo on your local device you need to open Git Bash and paste the link with the command 
+> $ git clone https://github.com/AndreaM2429/Set_up_a_Hello_Microverse_project**
 
 
 ### Install
@@ -122,7 +130,8 @@ You can do changes in the index.html, style.css and save the change in order to 
 
 ### Run tests
 
-To see the index.html file you have to go to your browser and enter the direction of your local clone, something like: http://localhost/name_of_clome_repo/index.html
+To see the index.html file you have to go to your browser and enter the direction of your local clone, something like: 
+> http://localhost/name_of_clome_repo/index.html
 
 
 ### Deployment
@@ -134,13 +143,14 @@ You can deploy this project using:
 
 <!-- AUTHORS -->
 
-## 👥 Authors <a name="authors"></a>
+## 👥 Author <a name="authors"></a>
 
 > I'm the only author from this project
 
-👤 **Author**
+👤 **Andrea Manuel**
 
 - GitHub: [@AndreaM2429](https://github.com/AndreaM2429)
+- Twitter: [@twitter](https://twitter.com/AndreaManuelOr1)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/andrea-manuel-2b075026a/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -160,7 +170,7 @@ You can deploy this project using:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](../../issues/) and add your thoughts
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
