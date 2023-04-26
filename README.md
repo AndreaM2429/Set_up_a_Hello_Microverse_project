@@ -55,7 +55,7 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 Set up a "Hello Microverse" <a name="about-project"></a>
 
 **Set up a "Hello Microverse" project** is a project for practice all the knowledge that I have learned during the previous steps.
 
@@ -99,15 +99,15 @@ To get a local copy up and running, follow these steps.
 ### Prerequisites
 
 In order to run this project you need:
-**To have a Git Bash in your device**
-**To have a code editor**
-**To have a web local server such as XAMPP**
+- **To have a Git Bash in your device**
+- **To have a code editor**
+- **To have a web local server such as XAMPP**
 
 
 ### Setup
 
 Clone this repository to your desired folder:
-**Clone this repo on your local device you need to open Git Bash and paste the link with the command $ git clone [https://github.com/YOUR-USERNAME/YOUR-REPOSITORY]**
+- **Clone this repo on your local device you need to open Git Bash and paste the link with the command $ git clone https://github.com/AndreaM2429/Set_up_a_Hello_Microverse_project**
 
 
 ### Install
@@ -122,14 +122,13 @@ You can do changes in the index.html, style.css and save the change in order to 
 
 ### Run tests
 
-To see the index.html file you have to go to your browser and enter the direction of your local clone, something like:
-**[http://localhost/name_of_clome_repo/index.html]**
+To see the index.html file you have to go to your browser and enter the direction of your local clone, something like: http://localhost/name_of_clome_repo/index.html
 
 
 ### Deployment
 
 You can deploy this project using:
-**Web services and you can make any change and use for anything else different**
+- **Web services and you can make any change and use for anything else different**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -139,7 +138,7 @@ You can deploy this project using:
 
 > I'm the only author from this project
 
-👤 **Author1**
+👤 **Author**
 
 - GitHub: [@AndreaM2429](https://github.com/AndreaM2429)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/andrea-manuel-2b075026a/)
